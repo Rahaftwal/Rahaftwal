@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahaf</h1>
-<h3 align="center">A Frontend Developer | Flutter Enthusiast | WordPress Expert</h3>
+<h3 align="center">A Frontend Developer | Flutter Developer | WordPress Designer & Developer</h3>
 
 ---
 
